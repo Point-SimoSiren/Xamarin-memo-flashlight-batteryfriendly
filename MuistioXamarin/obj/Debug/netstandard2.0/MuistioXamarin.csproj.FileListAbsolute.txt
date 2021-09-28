@@ -1,0 +1,16 @@
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\bin\Debug\netstandard2.0\MuistioXamarin.deps.json
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\bin\Debug\netstandard2.0\MuistioXamarin.dll
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\bin\Debug\netstandard2.0\ref\MuistioXamarin.dll
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\bin\Debug\netstandard2.0\MuistioXamarin.pdb
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.AssemblyInfoInputs.cache
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.AssemblyInfo.cs
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.csproj.CoreCompileInputs.cache
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.dll
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\ref\MuistioXamarin.dll
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.pdb
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\MuistioXamarin.csproj.AssemblyReference.cache
+C:\Koodit\Xamarin\MuistioXamarin\MuistioXamarin\obj\Debug\netstandard2.0\Assets\Tyylit.css.g.cs
